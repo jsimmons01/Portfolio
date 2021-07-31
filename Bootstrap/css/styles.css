@@ -1,0 +1,22 @@
+/*Choose a color palette for my project*/
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+#navbar {
+  display: flex;
+  position: fixed;
+}
+#welcome-section {
+  height: 100vh;
+}
+h1,
+h2 {
+  font-family: "Shadows Into Light", cursive;
+}
+@media (max-width: 576px) {
+  #navbar {
+    display: block;
+  }
+}
