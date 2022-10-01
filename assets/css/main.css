@@ -1647,7 +1647,7 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			margin: 0 0 2em 0;
-			border-radius: 10px;
+			border-radius: 50px 15px;
 			box-shadow: 10px 10px 25px 1px #8888;
 			border: 1px solid #7A2048;
 			
